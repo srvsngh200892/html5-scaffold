@@ -15,4 +15,18 @@
   padding-top: 10px;} 
 
  .white-text{color:white;
-  margin-top:-10px;}  
+  margin-top:-10px;} 
+
+  .text-color{color:#000;
+  	margin-left:15px;} 
+
+@media only screen 
+and (min-device-width : 360px) {
+.img-res{height:340px;
+         width:80px;
+         padding-top: 190px;
+         margin-left: 40px;
+     }
+
+}
+
